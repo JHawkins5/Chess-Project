@@ -1,0 +1,50 @@
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.exe
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.deps.json
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.json
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.dev.json
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.dll
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.pdb
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.AssemblyReference.cache
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.Form1.resources
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.GenerateResource.cache
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfoInputs.cache
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfo.cs
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.CoreCompileInputs.cache
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.dll
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.pdb
+C:\Users\jacka\OneDrive\Documents\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.genruntimeconfig.cache
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.exe
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.deps.json
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.json
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.dev.json
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.dll
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.pdb
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.AssemblyReference.cache
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.Form1.resources
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.GenerateResource.cache
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfoInputs.cache
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfo.cs
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.CoreCompileInputs.cache
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.dll
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.pdb
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.genruntimeconfig.cache
+C:\Users\jacka\OneDrive\Documents\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.PieceImages.resources
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.exe
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.deps.json
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.json
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.dev.json
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.dll
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.pdb
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.AssemblyReference.cache
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.Form1.resources
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.PieceImages.resources
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.GenerateResource.cache
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfoInputs.cache
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfo.cs
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.CoreCompileInputs.cache
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.dll
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.pdb
+C:\Users\jacka\OneDrive\Documents\Sixth Form\Computer Science\CS\CS NEA\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.genruntimeconfig.cache
