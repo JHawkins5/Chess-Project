@@ -256,7 +256,7 @@ namespace ChessProject
             newQueen.yGridPos = pawn.yGridPos;
         }
 
-        public static void Turn()
+        public static Piece Turn()
         {
             if (moveScores.Count > 0)
             {
@@ -274,11 +274,8 @@ namespace ChessProject
 
             bool[,] possibleMoves = new bool[8, 8];
             possibleMoves = movingPiece.PossibleMoves(possibleMoves, Globals.grid);
-
-            if (possibleMoves[movingPiece.newX, movingPiece.newY])
-            {
-                Globals.grid[movingPiece.xGridPos, movingPiece.yGridPos].UpdatePosition(movingPiece, movingPiece.xGridPos, movingPiece.yGridPos, movingPiece.newX, movingPiece.newY);
-            }
+            Globals.grid[movingPiece.xGridPos, movingPiece.yGridPos].UpdatePosition(movingPiece, movingPiece.xGridPos, movingPiece.yGridPos, movingPiece.newX, movingPiece.newY);
+            return movingPiece;
         }
     }
 }

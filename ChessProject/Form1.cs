@@ -842,9 +842,10 @@ namespace ChessProject
 
                                 if (playerVComputer)
                                 {
-                                    Thread.Sleep(1000);
-                                    AI.Turn();
-                                    Thread.Sleep(1000);
+                                    Thread.Sleep(2000);
+                                    Piece movedPiece = AI.Turn();
+                                    MoveLabel.Text = string.Format("Black has moved a black {0} to ({1}, {2}).", movedPiece.pieceType, movedPiece.newX + 1, movedPiece.newY + 1);
+                                    Thread.Sleep(2000);
                                     EndOfTurn();
                                 }
                             }
